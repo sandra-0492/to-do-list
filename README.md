@@ -2,7 +2,7 @@
 
 A simple and intuitive **to do list** to help you manage your daily tasks effortlessly.
 
-![To Do List](https://github.com/sandra-0492/to-do-list/blob/main/images/Screenshot.png?raw=true)
+![To Do List](https://raw.githubusercontent.com/sandra-0492/to-do-list/refs/heads/main/images/Screenshot.png)
 
 ## Features  
 
@@ -11,6 +11,8 @@ A simple and intuitive **to do list** to help you manage your daily tasks effort
 - View a list of all your tasks in one place.
 
 - Mark tasks as completed or remove them when done.
+
+- You can hide completed tasks by clicking the "Hide Completed" button or complete all tasks by clicking the "Complete All" buttons.
 
 ## Getting Started
 
@@ -22,7 +24,7 @@ A simple and intuitive **to do list** to help you manage your daily tasks effort
 
 ## Demo
 
-![To Do List Gif](https://github.com/sandra-0492/to-do-list/blob/main/images/to-do-list-gif.gif?raw=true)
+![To Do List Gif](https://raw.githubusercontent.com/sandra-0492/to-do-list/refs/heads/main/images/to-do-list-gif.gif)
 
 [Link to the Demo website](https://sandra-0492.github.io/to-do-list/)
 
