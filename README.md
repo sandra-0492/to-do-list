@@ -12,7 +12,7 @@ A simple and intuitive **to do list** to help you manage your daily tasks effort
 
 - Mark tasks as completed or remove them when done.
 
-- You can hide completed tasks by clicking the "Hide Completed" button or complete all tasks by clicking the "Complete All" buttons.
+- You can hide completed tasks by clicking the "Hide Completed" button or complete all tasks by clicking the "Complete All" button.
 
 ## Getting Started
 
