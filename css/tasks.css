@@ -10,7 +10,11 @@
     grid-gap: 10px;
     align-items: center;
     padding: 10px;
-    border-bottom: 1px solid #696969;
+    border-bottom: 1px solid #ddd;
+}
+
+.tasks__item--hidden {
+    display: none;
 }
 
 .tasks__button {
@@ -19,6 +23,7 @@
     width: 30px;
     height: 30px;
     padding: 0;
+    transition: background 0.3s;
 }
 
 .tasks__button--toggleDone {
@@ -34,7 +39,7 @@
 }
 
 .tasks__button--remove {
-    background: hsl(348, 84%, 45%);
+    background: hsl(348, 84%, 47%);
 }
 
 .tasks__button--remove:hover {
